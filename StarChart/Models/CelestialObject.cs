@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace StarChart.Data
+namespace StarChart.Models
 {
     public class CelestialObject
     {
